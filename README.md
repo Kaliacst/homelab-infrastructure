@@ -61,7 +61,6 @@ The infrastructure is designed with a separation of responsibilities between net
 
 The architecture will evolve as VLANs, centralized storage, monitoring, and additional services are implemented.
 
-[Architecture Documentation](docs/architecture.md)
 
 ---
 
