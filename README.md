@@ -2,8 +2,6 @@
 
 Personal homelab project focused on networking, virtualization, Linux, databases, storage, containers, and infrastructure management.
 
-# Homelab Infrastructure
-
 This repository documents the design, implementation, and evolution of my personal IT infrastructure homelab.
 
 The project aims to build a dedicated environment for designing and managing networks, deploying servers, working with virtualization, managing databases, implementing centralized storage, and experimenting with different infrastructure technologies.
